@@ -9,7 +9,7 @@
 
 I am a **Results-oriented Data Analyst** with a strong background in **Machine Learning** and **Data-driven Decision-making**. Currently pursuing my Bachelor's in Data Science from FAST NUCES Lahore, I am passionate about leveraging AI, NLP, and advanced data analysis techniques to derive actionable insights and drive impactful solutions.
 
-![Loading Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Allinone](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif))
 
 ---
 
