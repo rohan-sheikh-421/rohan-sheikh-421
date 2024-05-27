@@ -73,16 +73,16 @@ I am a **Results-oriented Data Analyst** with a strong background in **Machine L
 - [LinkedIn](https://www.linkedin.com/in/rohan-javed-b77b56219)
 - [Email](mailto:rohanjaved421@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohanjaved&style=flat&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=rohan-sheikh-421&style=flat&color=brightgreen)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanjaved&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-sheikh-421&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjaved&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-sheikh-421&layout=compact&theme=radical)
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohanjaved&theme=radical)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohan-sheikh-421&theme=radical)
