@@ -1,7 +1,7 @@
 # Muhammad Rohan Javed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-javed-b77b56219)
-[![Email](https://img.shields.io/badge/Email-rohanjaved421@gmail.com-red?style=flat&logo=gmail)](mailto:rohanjaved421@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rohanjaved421@gmail.com-red?style=flat&logo=gmail)](mailto:rohansheikh421@gmail.com)
 
 ---
 
